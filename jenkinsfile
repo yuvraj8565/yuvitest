@@ -1,0 +1,2 @@
+touch /tmp/yuvi
+uptime >> /tmp/yuvi
